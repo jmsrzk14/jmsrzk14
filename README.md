@@ -54,6 +54,9 @@ const james = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-5C3EE8?style=for-the-badge&logo=vite&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-181717?style=for-the-badge&logo=nextjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-0175C2?style=for-the-badge&logo=tailwind&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -71,7 +74,7 @@ const james = {
 ### 🗄️ Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/Postgre-339933?style=for-the-badge&logo=postgre&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-02569B?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🛠️ Tools & Technologies
