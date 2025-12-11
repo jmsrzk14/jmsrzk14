@@ -96,11 +96,8 @@ const james = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsrzk14&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170" /> 
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=jmsrzk14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Github Achievements" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jmsrzk14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 
