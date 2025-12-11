@@ -22,7 +22,7 @@ const james = {
     title: "Full Stack Developer",
     education: "Information Technology Student",
     location: "Indonesia 🇮🇩",
-    interests: ["Mobile Development", "Web Development", "IoT Engineer", Machine Learning Engineer"],
+    interests: ["Mobile Development", "Web Development", "IoT Engineer", "Machine Learning Engineer"],
     currentFocus: "Building scalable applications with a modern technology stack, automated and efficient systems and AI that can meet user needs",
 };
 ```
