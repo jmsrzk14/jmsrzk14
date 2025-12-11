@@ -99,7 +99,7 @@ const james = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=danielmanalu07&theme=tokyo-night&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/api?username=jmsrzk14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Github Achievements" />
 </div>
 
 ## 📈 Contribution Graph
