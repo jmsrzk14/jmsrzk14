@@ -87,13 +87,13 @@ const james = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmsrzk14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmsrzk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jmsrzk14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jmsrzk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" /> 
+</div> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsrzk14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170" />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsrzk14&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170" /> 
 </div>
 
 ## 🏆 GitHub Achievements
