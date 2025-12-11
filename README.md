@@ -54,7 +54,7 @@ const james = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-5C3EE8?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-5C3EE8?style=for-the-badge&logo=vite)
 ![NextJS](https://img.shields.io/badge/NextJS-181717?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-0175C2?style=for-the-badge&logo=tailwind&logoColor=white)
 
