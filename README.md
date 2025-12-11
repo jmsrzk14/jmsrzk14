@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logoColor=white)](https://james-frans-rizky-tambunan.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logoColor=white)](https://jamestambunan.netlify.app/)
   [![Email](https://img.shields.io/badge/📧_Email-jmsrizky@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmsrizky@gmail.com)
   
 </div>
