@@ -124,15 +124,3 @@ const james = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
-
----
-
-<div align="center">
-  
-### 🌟 Show some ❤️ by starring some repositories!
-
-![Profile Views](https://visitcount.itsvg.in/api?id=jmsrzk14&icon=2&color=6)
-
-**✨ Made with 💙 by James Frans Rizky Tambunan**
-
-</div>
