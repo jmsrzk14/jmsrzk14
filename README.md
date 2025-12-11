@@ -1,51 +1,133 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=7000&lines=I'm+James+Frans+Rizky+Tambunan;" />
-</h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!;" />
-</h1>
 <div align="center">
-    <img alt="Coder GIF" height=450 width=650 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-    <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hi+👋+I'm+James+Frans+Rizky+Tambunan;Full+Stack+Developer;Mobile+%26+Web+Enthusiast;Welcome+to+my+GitHub!" />
 </div>
-<hr/>
 
-## 👋 Hi, I'm James!
-I'm an Information Technology student with a strong interest in full-stack engineering, proficient in both mobile and web development🔥
-Kunjungi portofolio lengkap saya di sini: [[Portofolio](https://james-frans-rizky-tambunan.netlify.app/)](#)
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation" width="600" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juli.panjaitan.50/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jmsrzk_14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/james-frans-rizky-tambunan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mr.x1822) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jmsrizky@gmail.com)
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/DART-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Firebase](https://img.shields.io/badge/FIREBASE-%23039BE5.svg?style=plastic&logo=firebase) ![Flutter](https://img.shields.io/badge/FLUTTER-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=plastic&logo=postman&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-FF6C37?style=plastic&logo=opencv&logoColor=white) 
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logoColor=white)](https://james-frans-rizky-tambunan.netlify.app/)
+  [![Email](https://img.shields.io/badge/📧_Email-jmsrizky@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmsrizky@gmail.com)
+  
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jmsrzk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jmsrzk14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsrzk14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jmsrzk14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jmsrzk14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 About Me
 
+```typescript
+const james = {
+    title: "Full Stack Developer",
+    education: "Information Technology Student",
+    location: "Indonesia 🇮🇩",
+    interests: ["Mobile Development", "Web Development", "UI/UX Design"],
+    currentFocus: "Building scalable applications with modern tech stack",
+    funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
+
+### 🎯 What I Do
+- 📱 Building cross-platform mobile apps with **Flutter**
+- 🌐 Developing responsive web applications with **React** & **Laravel**
+- 🎨 Crafting beautiful UI/UX experiences
+- 🔧 Creating RESTful APIs and backend systems
+- 📊 Data analysis and visualization with **Python**
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-frans-rizky-tambunan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmsrzk_14/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mr.x1822)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/juli.panjaitan.50/)
+
+</div>
+
+## 💻 Tech Stack
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 Data Science & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmsrzk14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmsrzk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsrzk14&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="170" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jmsrzk14&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmsrzk14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jmsrzk14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jmsrzk14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+### 🌟 Show some ❤️ by starring some repositories!
 
-<!--
-**jmsrzk14/jmsrzk14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://visitcount.itsvg.in/api?id=jmsrzk14&icon=2&color=6)
 
-Here are some ideas to get you started:
+**✨ Made with 💙 by James Frans Rizky Tambunan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
